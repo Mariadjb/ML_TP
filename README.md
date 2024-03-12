@@ -1,2 +1,6 @@
 # ML_TP
-I'm excited to share our Machine Learning practical work (TP)  with you! I completed this work alongside my partner, Guerrouache Hiba. While we're still refining some aspects, we'd love to get your feedback . This will help us solidify our findings and potentially identify areas for improvement.
+#Jupyter Notebook : 
+  This notebooks combines Python code for implementing machine learning algorithms from scratch  , with   Q&A sections and Observations: This section contains notes, discussions.
+  This allows you to explore, experiment, and document your learning journey in a single file.
+  - relised by Aries AbdelKarim 
+  - respondents : DJEBLAHI Maria , GUERROUACHE Hiba 
